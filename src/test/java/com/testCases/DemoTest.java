@@ -7,6 +7,7 @@ public class DemoTest {
 	void demoTest(){
 		// TODO Auto-generated method stub
      System.out.println("Welcome to the Git hub");
+ System.out.println("will run the build through jenkins");
 	}
 
 }
